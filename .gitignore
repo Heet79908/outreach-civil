@@ -1,0 +1,35 @@
+# Secrets — never commit these
+.env
+credentials.json
+token.json
+
+# Personal profile (copy from profile.example.json)
+profile.json
+
+# Local data created when you run the pipeline
+*.db
+*.db-shm
+*.db-wal
+targets.json
+targets_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Scratch
+llm_probe_results.txt
+_status.py
+_overlap.py

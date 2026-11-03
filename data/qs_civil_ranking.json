@@ -1,0 +1,1945 @@
+{
+  "source": "QS World University Rankings by Subject 2025 — Engineering - Civil and Structural",
+  "source_urls": [
+    "https://www.topuniversities.com/university-subject-rankings/civil-structural-engineering",
+    "https://xuanxiao.org/en/rankings/qs/subject/civil-structural-engineering/2025",
+    "https://www.betteredu.net/universityranking/340.html"
+  ],
+  "year": 2025,
+  "qs_published_count": 277,
+  "notes": "QS ranks universities, not faculty. Ranks below 50 are published as bands with no order inside a band. This file keeps the full table so callers can filter to allowed countries (Europe, US, Canada, Japan, Singapore, Australia, New Zealand).",
+  "institutions": [
+    {
+      "rank": 1,
+      "rank_display": "1",
+      "university": "Massachusetts Institute of Technology",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 2,
+      "rank_display": "2",
+      "university": "ETH Zurich",
+      "country": "Switzerland",
+      "country_code": "CH"
+    },
+    {
+      "rank": 3,
+      "rank_display": "=3",
+      "university": "University of California, Berkeley",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 3,
+      "rank_display": "=3",
+      "university": "National University of Singapore",
+      "country": "Singapore",
+      "country_code": "SG"
+    },
+    {
+      "rank": 5,
+      "rank_display": "5",
+      "university": "Tsinghua University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 6,
+      "rank_display": "6",
+      "university": "Delft University of Technology",
+      "country": "Netherlands",
+      "country_code": "NL"
+    },
+    {
+      "rank": 7,
+      "rank_display": "7",
+      "university": "Stanford University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 8,
+      "rank_display": "8",
+      "university": "University of Cambridge",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 9,
+      "rank_display": "9",
+      "university": "Nanyang Technological University",
+      "country": "Singapore",
+      "country_code": "SG"
+    },
+    {
+      "rank": 10,
+      "rank_display": "10",
+      "university": "EPFL",
+      "country": "Switzerland",
+      "country_code": "CH"
+    },
+    {
+      "rank": 11,
+      "rank_display": "11",
+      "university": "Imperial College London",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 12,
+      "rank_display": "12",
+      "university": "University of Oxford",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 13,
+      "rank_display": "=13",
+      "university": "Politecnico di Milano",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 13,
+      "rank_display": "=13",
+      "university": "The University of Hong Kong",
+      "country": "Hong Kong SAR",
+      "country_code": "HK"
+    },
+    {
+      "rank": 15,
+      "rank_display": "15",
+      "university": "The University of Tokyo",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 16,
+      "rank_display": "16",
+      "university": "Shanghai Jiao Tong University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 17,
+      "rank_display": "17",
+      "university": "The Hong Kong Polytechnic University",
+      "country": "Hong Kong SAR",
+      "country_code": "HK"
+    },
+    {
+      "rank": 18,
+      "rank_display": "18",
+      "university": "University of Illinois Urbana-Champaign",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 19,
+      "rank_display": "19",
+      "university": "The Hong Kong University of Science and Technology",
+      "country": "Hong Kong SAR",
+      "country_code": "HK"
+    },
+    {
+      "rank": 20,
+      "rank_display": "20",
+      "university": "Tongji University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 21,
+      "rank_display": "=21",
+      "university": "The University of Texas at Austin",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 21,
+      "rank_display": "=21",
+      "university": "University of California, Los Angeles",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 21,
+      "rank_display": "=21",
+      "university": "Zhejiang University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 24,
+      "rank_display": "24",
+      "university": "UNSW Sydney",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 25,
+      "rank_display": "=25",
+      "university": "University of British Columbia",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 25,
+      "rank_display": "=25",
+      "university": "Georgia Institute of Technology",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 27,
+      "rank_display": "27",
+      "university": "University of Toronto",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 28,
+      "rank_display": "28",
+      "university": "The University of Sydney",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 29,
+      "rank_display": "29",
+      "university": "Seoul National University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 30,
+      "rank_display": "30",
+      "university": "University of Michigan-Ann Arbor",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 31,
+      "rank_display": "=31",
+      "university": "The University of Melbourne",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 31,
+      "rank_display": "=31",
+      "university": "Purdue University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 33,
+      "rank_display": "33",
+      "university": "University College London",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 34,
+      "rank_display": "34",
+      "university": "KAIST",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 35,
+      "rank_display": "35",
+      "university": "Technical University of Denmark",
+      "country": "Denmark",
+      "country_code": "DK"
+    },
+    {
+      "rank": 36,
+      "rank_display": "36",
+      "university": "Technical University of Munich",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 37,
+      "rank_display": "=37",
+      "university": "Harbin Institute of Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 37,
+      "rank_display": "=37",
+      "university": "California Institute of Technology",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 39,
+      "rank_display": "=39",
+      "university": "Politecnico di Torino",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 39,
+      "rank_display": "=39",
+      "university": "Kyoto University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 41,
+      "rank_display": "41",
+      "university": "Columbia University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 42,
+      "rank_display": "42",
+      "university": "Monash University",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 43,
+      "rank_display": "43",
+      "university": "KTH Royal Institute of Technology",
+      "country": "Sweden",
+      "country_code": "SE"
+    },
+    {
+      "rank": 44,
+      "rank_display": "44",
+      "university": "Institute of Science Tokyo",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 45,
+      "rank_display": "45",
+      "university": "Texas A&M University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 46,
+      "rank_display": "=46",
+      "university": "King Fahd University of Petroleum & Minerals",
+      "country": "Saudi Arabia",
+      "country_code": "SA"
+    },
+    {
+      "rank": 46,
+      "rank_display": "=46",
+      "university": "KU Leuven",
+      "country": "Belgium",
+      "country_code": "BE"
+    },
+    {
+      "rank": 48,
+      "rank_display": "=48",
+      "university": "The University of Auckland",
+      "country": "New Zealand",
+      "country_code": "NZ"
+    },
+    {
+      "rank": 48,
+      "rank_display": "=48",
+      "university": "Yonsei University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 50,
+      "rank_display": "50",
+      "university": "Pontificia Universidad Católica de Chile",
+      "country": "Chile",
+      "country_code": "CL"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Eindhoven University of Technology",
+      "country": "Netherlands",
+      "country_code": "NL"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The University of Edinburgh",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Université Paris-Saclay",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Technische Universität Berlin",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Pennsylvania State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Porto",
+      "country": "Portugal",
+      "country_code": "PT"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Bologna",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Bristol",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Chalmers University of Technology",
+      "country": "Sweden",
+      "country_code": "SE"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Southeast University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Korea University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "École des Ponts ParisTech",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Hanyang University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Washington",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Huazhong University of Science and Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Waterloo",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "RMIT University",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Universitat Politècnica de Catalunya",
+      "country": "Spain",
+      "country_code": "ES"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of California, Davis",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of California, San Diego",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Karlsruhe Institute of Technology",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Carnegie Mellon University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Cornell University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The University of Queensland",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Leeds",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Universidad Politécnica de Madrid",
+      "country": "Spain",
+      "country_code": "ES"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Universiti Malaya",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "McGill University",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The University of Manchester",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Universidad Nacional Autónoma de México",
+      "country": "Mexico",
+      "country_code": "MX"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Naples Federico II",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Norwegian University of Science and Technology",
+      "country": "Norway",
+      "country_code": "NO"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Nottingham",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Princeton University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Sapienza University of Rome",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Universidade de São Paulo",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "National Taiwan University",
+      "country": "Taiwan",
+      "country_code": "TW"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Wuhan University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Xi'an Jiaotong University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The University of Western Australia",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Northwestern University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "University of Technology Sydney",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "City University of Hong Kong",
+      "country": "Hong Kong SAR",
+      "country_code": "HK"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The Chinese University of Hong Kong",
+      "country": "Hong Kong SAR",
+      "country_code": "HK"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "The University of Sheffield",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "National Technical University of Athens",
+      "country": "Greece",
+      "country_code": "GR"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "RWTH Aachen University",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Indian Institute of Technology Delhi",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Indian Institute of Technology Madras",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 51,
+      "rank_display": "51-100",
+      "university": "Indian Institute of Technology Bombay",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "King Abdulaziz University",
+      "country": "Saudi Arabia",
+      "country_code": "SA"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "The University of Adelaide",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Alberta",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Université PSL",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Birmingham",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Sungkyunkwan University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Chongqing University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "TU Dresden",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Tohoku University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University College Dublin",
+      "country": "Ireland",
+      "country_code": "IE"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Trinity College Dublin",
+      "country": "Ireland",
+      "country_code": "IE"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Virginia Tech",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Florida",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Glasgow",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Ghent University",
+      "country": "Belgium",
+      "country_code": "BE"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "National Cheng Kung University",
+      "country": "Taiwan",
+      "country_code": "TW"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Campinas",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Cairo University",
+      "country": "Egypt",
+      "country_code": "EG"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Canterbury",
+      "country": "New Zealand",
+      "country_code": "NZ"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Colorado Boulder",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Curtin University",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Queensland University of Technology",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Loughborough University",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Lisbon",
+      "country": "Portugal",
+      "country_code": "PT"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Federal University of Rio de Janeiro",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Liverpool",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Universidad de los Andes",
+      "country": "Colombia",
+      "country_code": "CO"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Universiti Teknologi Malaysia",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Tecnológico de Monterrey",
+      "country": "Mexico",
+      "country_code": "MX"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Université de Montréal",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Michigan State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Southampton",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Southern California",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Newcastle University",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Queen's University",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Padua",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Pavia",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Stuttgart",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Tianjin University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Wisconsin-Madison",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "TU Wien",
+      "country": "Austria",
+      "country_code": "AT"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "University of Wollongong",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Yale University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Istanbul Technical University",
+      "country": "Turkey",
+      "country_code": "TR"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Indian Institute of Science Bangalore",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Indian Institute of Technology Kanpur",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Indian Institute of Technology Kharagpur",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Indian Institute of Technology Roorkee",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Johns Hopkins University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Universidad de Chile",
+      "country": "Chile",
+      "country_code": "CL"
+    },
+    {
+      "rank": 101,
+      "rank_display": "101-150",
+      "university": "Middle East Technical University",
+      "country": "Turkey",
+      "country_code": "TR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Aalto University",
+      "country": "Finland",
+      "country_code": "FI"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Exeter",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Aalborg University",
+      "country": "Denmark",
+      "country_code": "DK"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Bath",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Hokkaido University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Beijing University of Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "North Carolina State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Osaka University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Dalian University of Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "The Ohio State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Centrale Nantes",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Universidad Nacional de Colombia",
+      "country": "Colombia",
+      "country_code": "CO"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Université Grenoble Alpes",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "INSA Lyon",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Universiti Teknologi PETRONAS",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Khalifa University",
+      "country": "United Arab Emirates",
+      "country_code": "AE"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Heriot-Watt University",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Hunan University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Warsaw University of Technology",
+      "country": "Poland",
+      "country_code": "PL"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Warwick",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of California, Irvine",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Czech Technical University in Prague",
+      "country": "Czech Republic",
+      "country_code": "CZ"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Cardiff University",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Calgary",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Qatar University",
+      "country": "Qatar",
+      "country_code": "QA"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Rice University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Lund University",
+      "country": "Sweden",
+      "country_code": "SE"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Universiti Kebangsaan Malaysia",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Universiti Sains Malaysia",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Maryland, College Park",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "McMaster University",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Minho",
+      "country": "Portugal",
+      "country_code": "PT"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Nagoya University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Minnesota Twin Cities",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "The University of Newcastle",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "New York University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University at Buffalo",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "King Saud University",
+      "country": "Saudi Arabia",
+      "country_code": "SA"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Sejong University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Strathclyde",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Twente",
+      "country": "Netherlands",
+      "country_code": "NL"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Universitat Politècnica de València",
+      "country": "Spain",
+      "country_code": "ES"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Western University",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Sharif University of Technology",
+      "country": "Iran",
+      "country_code": "IR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Aristotle University of Thessaloniki",
+      "country": "Greece",
+      "country_code": "GR"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Arizona State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "University of Illinois Chicago",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Jordan University of Science and Technology",
+      "country": "Jordan",
+      "country_code": "JO"
+    },
+    {
+      "rank": 151,
+      "rank_display": "151-200",
+      "university": "Chulalongkorn University",
+      "country": "Thailand",
+      "country_code": "TH"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "United Arab Emirates University",
+      "country": "United Arab Emirates",
+      "country_code": "AE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Ain Shams University",
+      "country": "Egypt",
+      "country_code": "EG"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Galway",
+      "country": "Ireland",
+      "country_code": "IE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Iowa State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Aarhus University",
+      "country": "Denmark",
+      "country_code": "DK"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Politecnico di Bari",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Beihang University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Beijing Jiaotong University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Queen's University Belfast",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "American University of Beirut",
+      "country": "Lebanon",
+      "country_code": "LB"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Pisa",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Birla Institute of Technology and Science, Pilani",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Budapest University of Technology and Economics",
+      "country": "Hungary",
+      "country_code": "HU"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Brno University of Technology",
+      "country": "Czech Republic",
+      "country_code": "CZ"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "TU Braunschweig",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Universidad de Buenos Aires",
+      "country": "Argentina",
+      "country_code": "AR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "TU Darmstadt",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Universidad Técnica Federico Santa María",
+      "country": "Chile",
+      "country_code": "CL"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Tehran",
+      "country": "Iran",
+      "country_code": "IR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Deakin University",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Duke University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Oregon State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "UCLouvain",
+      "country": "Belgium",
+      "country_code": "BE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Florence",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Graz University of Technology",
+      "country": "Austria",
+      "country_code": "AT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Granada",
+      "country": "Spain",
+      "country_code": "ES"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Grenoble INP",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "National University of Sciences and Technology",
+      "country": "Pakistan",
+      "country_code": "PK"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "National Taipei University of Technology",
+      "country": "Taiwan",
+      "country_code": "TW"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "National Yang Ming Chiao Tung University",
+      "country": "Taiwan",
+      "country_code": "TW"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Leibniz University Hannover",
+      "country": "Germany",
+      "country_code": "DE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Vietnam National University Ho Chi Minh City",
+      "country": "Vietnam",
+      "country_code": "VN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "South China University of Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Kyushu University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Cape Town",
+      "country": "South Africa",
+      "country_code": "ZA"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Concordia University",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Colorado State University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Coimbra",
+      "country": "Portugal",
+      "country_code": "PT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "École Centrale de Lyon",
+      "country": "France",
+      "country_code": "FR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Pontifical Catholic University of Rio de Janeiro",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Lehigh University",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Liège",
+      "country": "Belgium",
+      "country_code": "BE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Rome Tor Vergata",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Lomonosov Moscow State University",
+      "country": "Russia",
+      "country_code": "RU"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Universiti Putra Malaysia",
+      "country": "Malaysia",
+      "country_code": "MY"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Massachusetts Amherst",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "American University of Sharjah",
+      "country": "United Arab Emirates",
+      "country_code": "AE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Universidade Federal de Minas Gerais",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Pontificia Universidad Católica del Perú",
+      "country": "Peru",
+      "country_code": "PE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Patras",
+      "country": "Greece",
+      "country_code": "GR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Kyung Hee University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Surrey",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Sharjah",
+      "country": "United Arab Emirates",
+      "country_code": "AE"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Shandong University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "São Paulo State University",
+      "country": "Brazil",
+      "country_code": "BR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Swansea University",
+      "country": "United Kingdom",
+      "country_code": "GB"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Swinburne University of Technology",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "National Taiwan University of Science and Technology",
+      "country": "Taiwan",
+      "country_code": "TW"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Trento",
+      "country": "Italy",
+      "country_code": "IT"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Duy Tan University",
+      "country": "Vietnam",
+      "country_code": "VN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Ulsan National Institute of Science and Technology",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Ottawa",
+      "country": "Canada",
+      "country_code": "CA"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Wuhan University of Technology",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Southwest Jiaotong University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Western Sydney University",
+      "country": "Australia",
+      "country_code": "AU"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Houston",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Arizona",
+      "country": "United States",
+      "country_code": "US"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Technion - Israel Institute of Technology",
+      "country": "Israel",
+      "country_code": "IL"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Indian Institute of Technology Guwahati",
+      "country": "India",
+      "country_code": "IN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Jordan",
+      "country": "Jordan",
+      "country_code": "JO"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Waseda University",
+      "country": "Japan",
+      "country_code": "JP"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "University of Chinese Academy of Sciences",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Central South University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Sun Yat-sen University",
+      "country": "China",
+      "country_code": "CN"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Chung-Ang University",
+      "country": "South Korea",
+      "country_code": "KR"
+    },
+    {
+      "rank": 201,
+      "rank_display": "201-275",
+      "university": "Boğaziçi University",
+      "country": "Turkey",
+      "country_code": "TR"
+    }
+  ]
+}

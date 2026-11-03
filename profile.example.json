@@ -1,0 +1,47 @@
+{
+  "target_domain": "civil engineering",
+  "personal_info": {
+    "name": "Your Name",
+    "institution": "Your University",
+    "degree": "B.Tech. in Civil Engineering",
+    "year": "Third Year",
+    "cpi": "9.00 / 10.0",
+    "email": "you@example.com",
+    "phone": "+1 0000000000",
+    "links": {
+      "github": "https://github.com/yourusername",
+      "linkedin": "https://www.linkedin.com/in/yourusername"
+    }
+  },
+  "technical_skills": {
+    "languages": ["Python", "MATLAB", "C++"],
+    "civil_engineering": [
+      "Structural analysis",
+      "Geotechnical engineering",
+      "Transportation engineering",
+      "Water resources",
+      "Construction management"
+    ],
+    "tools": ["OpenSees", "SAP2000", "AutoCAD", "GIS"],
+    "core_coursework": [
+      "Structural Analysis",
+      "Soil Mechanics",
+      "Hydrology",
+      "Transportation Engineering",
+      "Reinforced Concrete Design"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Example structural modelling project",
+      "timeline": "2025 – 2026",
+      "summary": "Replace this with a real civil-engineering project you have designed or built.",
+      "key_technical_points": [
+        "Describe one technical thing you implemented.",
+        "Mention tools that also appear under technical_skills."
+      ],
+      "tags": ["Structural Engineering"]
+    }
+  ],
+  "experience": []
+}
